@@ -88,3 +88,7 @@ flomock/epidope:v0.2 -i /in/proteins.fasta -o /out/epidope_results
 If you are interested, you find most of the code which was used to create this tool under:
 
 https://github.com/flomock/epitop_pred
+
+## Citation
+Maximilian Collatz, Florian Mock, Emanuel Barth, Martin Hölzer, Konrad Sachse, Manja Marz, EpiDope: A Deep Neural Network for linear B-cell epitope prediction, Bioinformatics, , btaa773, https://doi.org/10.1093/bioinformatics/btaa773
+
