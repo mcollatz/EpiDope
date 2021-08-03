@@ -1,4 +1,10 @@
 # EpiDope
+
+# Outdated! Please visit
+https://github.com/flomock/EpiDope
+# for the newest Version.
+
+
 Prediction of B-cell epitopes from amino acid sequences using deep neural networks. Supported on Linux and Mac.
 
 ## System-requirements
